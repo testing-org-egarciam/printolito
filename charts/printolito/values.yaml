@@ -1,0 +1,7 @@
+wordpress:
+  wordpressUsername: admin
+  wordpressPassword: printolito_password
+  mariadb:
+    auth:
+      rootPassword: printolito_db_password
+      database: bitnami_wordpress
