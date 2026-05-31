@@ -2,6 +2,8 @@
 
 Printolito is a WordPress-based web application deployed within the Hub-and-Spoke GitOps architecture.
 
+Otra pruega de gh app
+
 ## The Wrapper Chart Pattern
 
 Unlike standard applications, Printolito represents an off-the-shelf software deployment (Bitnami WordPress) operating under strict corporate network constraints. It uses the **Wrapper Helm Chart** pattern to bypass outbound MITM proxy limitations on the Kubernetes nodes.
